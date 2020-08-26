@@ -1,0 +1,6 @@
+Source string: Hello world , fuck the world.
+I love C primer plus
+hahah
+fuck
+hello world
+Hello world

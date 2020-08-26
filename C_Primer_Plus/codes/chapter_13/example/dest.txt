@@ -1,0 +1,10 @@
+This is a destination file
+
+if the program successfully run
+this file will be appended some new words!I
+want
+to
+fuck
+you
+any
+more!
